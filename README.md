@@ -16,7 +16,7 @@ I'm learning C. I know it's old, but I'm learning it to use with Arduino boards.
 ### 🕑 What I'm planning to do in the future:
 I'm planning to do many things with C#, including but not only:
 - [ ] A set of games including TicTacToe, Rock Paper Scissors etc.
-- [ ] A color picker & REST API
+- [ ] A color picker & a color REST API
 - [ ] A HTTP request GUI client
 - [ ] Some programs for fake message boxes
 - [ ] Some Discord utilities
@@ -26,7 +26,7 @@ I'm planning to do many things with C#, including but not only:
 ---
 ### 📺 My YouTube career:
 
-I been doing YouTube at the way in 2017, but my content has now focused on fun or interesting PowerPoints, and Garry's Mod! [Check it out! (in Spanish only)](https://www.youtube.com/@ItsMayonesa668/videos)
+I been doing YouTube all the way back in 2017, but my content has now focused on fun or interesting PowerPoints, and Garry's Mod! [Check it out! (in Spanish only)](https://www.youtube.com/@ItsMayonesa668/videos)
 
 ---
 ### 💬 FAQs:
