@@ -1,38 +1,46 @@
-## Hi there, I'm ItsMayonesa! 👋
-I'm a young student who likes to code useful, testing, non-sense & weird stuff.
+<p align="center">
+  <h1 align="center">ItsMayonesa</h1>
+  <p align="center">Hi there! 👋.
+  I'm a young student who likes coding useful, testing, non-sense & weird stuff, and also likes Project Sekai.</p>
+</p>
+
 
 ---
-### 📷 What I'm currently working on:
+### 💻 What I'm currently working on:
 
-My site, I wanted to always make a personal site, as I'm tired of free website makers.
+A GMod addon that adds a variety of STools that are for utility, useless stuff (i know), and some for entertainment purposes!
 
-###### Psst! Wanna see how my old site looked? [It's here](https://hxd114649.wixsite.com/mayonesa). I warn you tho, it's in Spanish and it's awful, ugh.
 ---
 ### 🌱 What I'm learning:
 
-I'm learning C. I know it's old, but I'm learning it to use with Arduino boards.
+I'm learning GLua for coding addons in GMod. Still in the basics but learning something new every day.
+##### (GLua is a modified version of Lua exclusive to GMod)
 
 ---
-### 🕑 What I'm planning to do in the future:
-I'm planning to do many things with C#, including but not only:
-- [ ] A set of games including TicTacToe, Rock Paper Scissors etc.
-- [ ] A color picker & a color REST API
-- [ ] A HTTP request GUI client
-- [ ] Some programs for fake message boxes
-- [ ] Some Discord utilities
-- [ ] A key-combo program that opens up a tiny window to do different things & extendible with plugins (spoiler: possible name is QuickCmd)
+### 🕑 What I'm planning to code in the future:
+Right now, I plan on only making these ideas as addons for GMod:
+- [X] An addon that adds variety of new STools
+###### *Spoiler: addon name is "Extended STools"*
+- [ ] A "context menu" options addon so you can change advanced settings on the fly
+- [ ] An addon that adds variety of HUD indicators (clock, FPS, etc)
+- [ ] Decoration addons
+- [ ] An addon that adds more Wiremod stuff (50/50 chance of doing it)?
+- [ ] Maybe a SWEP addon?
 
-- [ ] And hopefully to turn some programs to Discord bots!
 ---
 ### 📺 My YouTube career:
 
-I been doing YouTube all the way back in 2017, but my content has now focused on fun or interesting PowerPoints, and Garry's Mod! [Check it out! (in Spanish only)](https://www.youtube.com/@ItsMayonesa668/videos)
+I been doing YouTube all the way back in 2017, then centered on fun or interesting PowerPoints, and Garry's Mod.
+
+[Check it out! (in Spanish only)](https://www.youtube.com/@ItsMayonesa668/videos)
+
+#### I'm working to make new quality content & series for the channel for this year (aka. try to do something else rather than gmod).
 
 ---
 ### 💬 FAQs:
 Good ol' FAQs, here I go:
 ### Who are you, again?
-- I'm ItsMayonesa, a young student who likes to code.
+- I'm ItsMayonesa, a young student who likes coding, playing GMod, Project Sekai, and much more.
 
 ### Age?
 - Not telling, but less than 18.
@@ -41,38 +49,48 @@ Good ol' FAQs, here I go:
 - Male.
 
 ### Favorite hobbies?
-- Coding, making YouTube videos, playing Garry's Mod, and chatting with friends on Discord.
+- Playing Garry's Mod (do nextbot chases and build random stuff), coding, watching/listening to Project Sekai content/music, digital art & making YouTube videos.
 
-### Favorite programming language?
+### Favorite programming languages?
+##### *(let's rank it from highest/most used to least/less used favorite language cuz why not)*
+- GLua (GMod's version of Lua)
+- Lua
+- Python
 - C#
+- HTML & CSS
+- JavaScript
+- Java
 
-### For your site, why don't you use a free website service like WordPress or Weebly?
-- Most website services either make me pay up for a single site, or they leave watermarks like "Made with \[ X ]". Besides, the link will have their name embedded in it.
-
-### Will your programs run on \[ X ] operating system?
-- No, my programs are Windows-only based programs. This is because the C# environment only has support for Windows-based libraries for GUIs (WinForms, WPF). There are tools to run WinForms C# code in other OSes, but I don't guarantee the output design of my programs in those OSes nor the used tool.
+### Any previous hobbies/projects you have abandoned?
+- Yes, many:
+    - Minecraft modding
+    - Random apps made with Java & C#
+    - Discord bots
+    - Failed PyGame apps
+    - Failed Roblox games/models
+    - Many, MANY YouTube series
+    - ...and much more
 
 ### Do you have any contact form/information?
-- I currently don't have any official contact email or account. If you want to contact me about something, use the Issues tab.
-
-### YouTube channel?
-- Yes! I do have a YouTube channel! The link is above here.
+- I currently don't have any official **contact** email or social media. If you want to contact me about something, use the Issues tab.
 
 ### Can I add you on Discord?
 - I **do not** accept random friend requests, only from people I know irl, sorry.
 
-### I wanna see more of your projects! ᵔ ᵕ ᵔ
-- Navigate through this repository folders to find out more about my projects!
+### I wanna see your projects! ᵔ ᵕ ᵔ
+- Navigate through my account Repositories tab to find out more about my projects!
+##### (not many active projects are there rn)
 
-###### Last updated: March 8th, 2023
 ---
 ### 🍦 Fun Facts!
 - My first programming language to ever learn was **Java**.
+- I'm in a love relationship!
+- Back in 2020-2021, I was very problematic on Discord servers... thankfully I changed for the better.
 - I started my YouTube adventure by accident!
 
 ---
 And that's all! Thanks for reading!
-###### 08/03/2023
+###### 09/01/2024
 
 <!--
 **ItsMayonesa/ItsMayonesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -88,3 +106,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
