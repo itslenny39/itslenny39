@@ -1,14 +1,13 @@
 <p align="center">
   <h1 align="center">ItsMayonesa</h1>
   <p align="center">Hi there! 👋.
-  I'm a young student who likes coding useful, testing, non-sense & weird stuff, and also likes Project Sekai.</p>
+  I'm a young student who likes coding useful, testing, non-sense & weird stuff, and also likes Vocaloid & Project Sekai.</p>
 </p>
-
 
 ---
 ### 💻 What I'm currently working on:
 
-A GMod addon that adds a variety of STools that are for utility, useless stuff (i know), and some for entertainment purposes!
+A GMod addon that adds a variety of STools that are for utility, useless stuff (i know), and some tools for entertainment purposes!
 
 ---
 ### 🌱 What I'm learning:
@@ -22,6 +21,7 @@ Right now, I plan on only making these ideas as addons for GMod:
 - [X] An addon that adds variety of new STools
 ###### *Spoiler: addon name is "Extended STools"*
 - [ ] A "context menu" options addon so you can change advanced settings on the fly
+- [ ] An advanced file explorer for game & addon content
 - [ ] An addon that adds variety of HUD indicators (clock, FPS, etc)
 - [ ] Decoration addons
 - [ ] An addon that adds more Wiremod stuff (50/50 chance of doing it)?
@@ -40,7 +40,7 @@ I been doing YouTube all the way back in 2017, then centered on fun or interesti
 ### 💬 FAQs:
 Good ol' FAQs, here I go:
 ### Who are you, again?
-- I'm ItsMayonesa, a young student who likes coding, playing GMod, Project Sekai, and much more.
+- I'm ItsMayonesa, a young student who likes coding, playing GMod, Vocaloid, Project Sekai, and much more.
 
 ### Age?
 - Not telling, but less than 18.
@@ -49,7 +49,7 @@ Good ol' FAQs, here I go:
 - Male.
 
 ### Favorite hobbies?
-- Playing Garry's Mod (do nextbot chases and build random stuff), coding, watching/listening to Project Sekai content/music, digital art & making YouTube videos.
+- Playing Garry's Mod (do nextbot chases and build random stuff), coding, watching Project Sekai, listening to Vocaloid, digital art & making YouTube videos.
 
 ### Favorite programming languages?
 ##### *(let's rank it from highest/most used to least/less used favorite language cuz why not)*
@@ -90,20 +90,4 @@ Good ol' FAQs, here I go:
 
 ---
 And that's all! Thanks for reading!
-###### 09/01/2024
-
-<!--
-**ItsMayonesa/ItsMayonesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+###### 30/01/2024
