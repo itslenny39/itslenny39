@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">ItsMayonesa</h1>
+  <h1 align="center">ItsLenny</h1>
   <p align="center">Hi there! 👋.
   I'm a young student who likes coding useful, testing, non-sense & weird stuff, and also likes Vocaloid & Project Sekai.</p>
 </p>
@@ -31,6 +31,7 @@ Right now, I plan on only making these ideas as addons for GMod:
 ### 📺 My YouTube career:
 
 I been doing YouTube all the way back in 2017, then centered on fun or interesting PowerPoints, and Garry's Mod.
+###### channel will be updated with the new name eventually
 
 [Check it out! (in Spanish only)](https://www.youtube.com/@ItsMayonesa668/videos)
 
@@ -40,7 +41,7 @@ I been doing YouTube all the way back in 2017, then centered on fun or interesti
 ### 💬 FAQs:
 Good ol' FAQs, here I go:
 ### Who are you, again?
-- I'm ItsMayonesa, a young student who likes coding, playing GMod, Vocaloid, Project Sekai, and much more.
+- I'm ItsLenny, a young student who likes coding, playing GMod, Vocaloid, Project Sekai, and much more.
 
 ### Age?
 - Not telling, but less than 18.
@@ -84,10 +85,8 @@ Good ol' FAQs, here I go:
 ---
 ### 🍦 Fun Facts!
 - My first programming language to ever learn was **Java**.
-- I'm in a love relationship!
-- Back in 2020-2021, I was very problematic on Discord servers... thankfully I changed for the better.
 - I started my YouTube adventure by accident!
 
 ---
 And that's all! Thanks for reading!
-###### 30/01/2024
+###### 19/02/2024
