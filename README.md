@@ -7,13 +7,12 @@
 ---
 ### 💻 What I'm currently working on:
 
-A GMod addon that adds a variety of STools that are for utility, useless stuff (i know), and some tools for entertainment purposes!
+Currently nothing.
 
 ---
 ### 🌱 What I'm learning:
 
-I'm learning GLua for coding addons in GMod. Still in the basics but learning something new every day.
-##### (GLua is a modified version of Lua exclusive to GMod)
+Currently not learning any new languages.
 
 ---
 ### 🕑 What I'm planning to code in the future:
@@ -30,36 +29,28 @@ Right now, I plan on only making these ideas as addons for GMod:
 ---
 ### 📺 My YouTube career:
 
-I been doing YouTube all the way back in 2017, then centered on fun or interesting PowerPoints, and Garry's Mod.
-###### channel will be updated with the new name eventually
-
-[Check it out! (in Spanish only)](https://www.youtube.com/@ItsMayonesa668/videos)
-
-#### I'm working to make new quality content & series for the channel for this year (aka. try to do something else rather than gmod).
+I had been doing YouTube all the way back in 2017, then centered on fun or interesting PowerPoints, and Garry's Mod. Unfortunately, I decided to quit.
 
 ---
 ### 💬 FAQs:
 Good ol' FAQs, here I go:
 ### Who are you, again?
-- I'm ItsLenny, a young student who likes coding, playing GMod, Vocaloid, Project Sekai, and much more.
+- I'm ItsLenny, a young male student who likes coding, playing GMod, Vocaloid, Project Sekai, and much more.
 
 ### Age?
 - Not telling, but less than 18.
 
-### Gender?
-- Male.
-
 ### Favorite hobbies?
-- Playing Garry's Mod (do nextbot chases and build random stuff), coding, watching Project Sekai, listening to Vocaloid, digital art & making YouTube videos.
+- Playing Garry's Mod (do nextbot chases and build random stuff), coding, playing Project Sekai & listening to Vocaloid.
 
 ### Favorite programming languages?
 ##### *(let's rank it from highest/most used to least/less used favorite language cuz why not)*
+- HTML & CSS
+- JavaScript
 - GLua (GMod's version of Lua)
 - Lua
 - Python
 - C#
-- HTML & CSS
-- JavaScript
 - Java
 
 ### Any previous hobbies/projects you have abandoned?
@@ -70,13 +61,11 @@ Good ol' FAQs, here I go:
     - Failed PyGame apps
     - Failed Roblox games/models
     - Many, MANY YouTube series
+    - My YouTube career
     - ...and much more
 
 ### Do you have any contact form/information?
 - I currently don't have any official **contact** email or social media. If you want to contact me about something, use the Issues tab.
-
-### Can I add you on Discord?
-- I **do not** accept random friend requests, only from people I know irl, sorry.
 
 ### I wanna see your projects! ᵔ ᵕ ᵔ
 - Navigate through my account Repositories tab to find out more about my projects!
@@ -89,4 +78,4 @@ Good ol' FAQs, here I go:
 
 ---
 And that's all! Thanks for reading!
-###### 19/02/2024
+###### 06/07/2024
