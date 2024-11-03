@@ -27,55 +27,9 @@ Right now, I plan on only making these ideas as addons for GMod:
 - [ ] Maybe a SWEP addon?
 
 ---
-### 📺 My YouTube career:
-
-I had been doing YouTube all the way back in 2017, then centered on fun or interesting PowerPoints, and Garry's Mod. Unfortunately, I decided to quit.
-
----
-### 💬 FAQs:
-Good ol' FAQs, here I go:
-### Who are you, again?
-- I'm ItsLenny, a young male student who likes coding, playing GMod, Vocaloid, Project Sekai, and much more.
-
-### Age?
-- Not telling, but less than 18.
-
-### Favorite hobbies?
-- Playing Garry's Mod (do nextbot chases and build random stuff), coding, playing Project Sekai & listening to Vocaloid.
-
-### Favorite programming languages?
-##### *(let's rank it from highest/most used to least/less used favorite language cuz why not)*
-- HTML & CSS
-- JavaScript
-- GLua (GMod's version of Lua)
-- Lua
-- Python
-- C#
-- Java
-
-### Any previous hobbies/projects you have abandoned?
-- Yes, many:
-    - Minecraft modding
-    - Random apps made with Java & C#
-    - Discord bots
-    - Failed PyGame apps
-    - Failed Roblox games/models
-    - Many, MANY YouTube series
-    - My YouTube career
-    - ...and much more
-
-### Do you have any contact form/information?
-- I currently don't have any official **contact** email or social media. If you want to contact me about something, use the Issues tab.
-
-### I wanna see your projects! ᵔ ᵕ ᵔ
-- Navigate through my account Repositories tab to find out more about my projects!
-##### (not many active projects are there rn)
-
----
 ### 🍦 Fun Facts!
 - My first programming language to ever learn was **Java**.
-- I started my YouTube adventure by accident!
 
 ---
 And that's all! Thanks for reading!
-###### 06/07/2024
+###### 03/11/2024
