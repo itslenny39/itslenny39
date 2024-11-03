@@ -17,14 +17,11 @@ Currently not learning any new languages.
 ---
 ### 🕑 What I'm planning to code in the future:
 Right now, I plan on only making these ideas as addons for GMod:
-- [X] An addon that adds variety of new STools
-###### *Spoiler: addon name is "Extended STools"*
+- [X] A simple prop precision addon
 - [ ] A "context menu" options addon so you can change advanced settings on the fly
 - [ ] An advanced file explorer for game & addon content
-- [ ] An addon that adds variety of HUD indicators (clock, FPS, etc)
-- [ ] Decoration addons
+- [ ] An addon that adds safety signs
 - [ ] An addon that adds more Wiremod stuff (50/50 chance of doing it)?
-- [ ] Maybe a SWEP addon?
 
 ---
 ### 🍦 Fun Facts!
